@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using Xamarin.Forms;
 
-namespace App18
+namespace lang1
 {
     //Page1은 문서 입력 화면
     public partial class Page1 : ContentPage
