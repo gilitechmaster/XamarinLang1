@@ -96,7 +96,8 @@ namespace App18
                     "? ",
                     "?",
                     "! ",
-                    "!"
+                    "!",
+                    " "
                     
 
                         }, StringSplitOptions.None);
