@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core"
-             x:Class="App18.Page2"
+             x:Class="lang1.Page2"
              Title="포스트잇 알고리즘 실험(1단어 1나눔)">
     
     <ContentPage.ToolbarItems>
