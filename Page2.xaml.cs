@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 
 using Xamarin.Forms;
-using App18.Model;
+using lang1.Model;
 
 namespace lang1
 {
