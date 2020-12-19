@@ -2,7 +2,7 @@
 using System.IO;
 using Xamarin.Forms;
 
-namespace App18
+namespace lang1
 {
     public partial class MainPage : ContentPage
     {
