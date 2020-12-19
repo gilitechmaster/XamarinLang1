@@ -7,7 +7,7 @@ using System.Text;
 using Xamarin.Forms;
 using App18.Model;
 
-namespace App18
+namespace lang1
 {
     //Page2 문서 목록 화면
     public partial class Page2 : ContentPage
