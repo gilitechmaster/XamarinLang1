@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              
-             x:Class="App18.Page1"
+             x:Class="lang1.Page1"
              Title="입력한 문서">
     <StackLayout Margin="20">
         
