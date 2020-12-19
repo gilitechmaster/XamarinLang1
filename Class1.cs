@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace App18.Model
+namespace lang1.Model
 {
     class Note
     {
